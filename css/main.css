@@ -1,0 +1,59 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+section{
+	margin: 30px 0px;
+}
+.profilemainimage{
+	margin: 0;
+	width: 100%;
+	height: 400px;
+	background-image: url("../img/profilemain.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.profilemainimage.eventpagebg{
+	background-image: url("../img/eventbg.jpg");
+	position: relative;
+}
+.carddetail{
+	margin-top: 100px;
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+ul li{
+	list-style: none;
+}
+.mainvisual{
+	margin: 0;
+}
+.mainvisual ul li{
+	width: 100%;
+	height: 600px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.one{
+	background-image: url("../img/one.jpg");
+}
+.two{
+	background-image: url("../img/two.jpg");
+}
+.three{
+	background-image: url("../img/three.jpg");
+}
+.message{
+	background: #ccc;
+	padding: 10px;
+}
+.bgcard{
+	background: #ccc;
+}
+.mtop{
+	margin-top: -300px;
+}
